@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "pk.tripper",
+      "sha256_cert_fingerprints":
+        ["E9:AA:78:A7:8B:15:E7:B9:DD:23:C9:75:4D:0E:CE:CC:CE:C8:F1:5D:96:64:06:A5:51:99:C2:0B:E3:DE:96:D5"]
+    }
+  }
+]
